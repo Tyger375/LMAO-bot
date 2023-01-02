@@ -1,3 +1,5 @@
 _Jsons/
+.idea/
+LifeFunctions/
 old.py
 server.py
